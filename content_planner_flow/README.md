@@ -4,7 +4,7 @@
 This project leverages CrewAI Flow to scrape a website, prepare a social post and publish it, powered by a locally running Llama 3.2!
 
 ### Watch Demo on YouTube
-[![Watch Demo on YouTube](https://github.com/patchy631/ai-engineering-hub/blob/main/content_planner_flow/resources/thumbnail.png)](https://www.youtube.com/watch?v=Nor6vNl1NPo)
+[![Watch Demo on YouTube](https://raw.githubusercontent.com/patchy631/ai-engineering-hub/main/content_planner_flow/resources/thumbnail.png)](https://www.youtube.com/watch?v=Nor6vNl1NPo)
 
 
 ## Installation and setup
